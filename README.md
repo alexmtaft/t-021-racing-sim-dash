@@ -1,12 +1,21 @@
 # t-021-racing-sim-dash
 sim dashboard using nextion display 
 
-## v01.00: just a draft to get approximate sizing on steering wheel
+## electronics 
+
+nextion 4.3" dipslay
+https://www.amazon.com/dp/B07QWS2N48?psc=1&ref=ppx_yo2_dt_b_product_details
+
+need to use CP2102 USB to TTL Adapter Serial to attach to computer USB
+  - was not detected initially by win10, needed to install drivers for it from: https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
+
+## cad
+### v01.00: just a draft to get approximate sizing on steering wheel
   - didn't account for the logitech circoelcover fiting inside of the stand -> made diameter too small
 
 ![v01.00](./media/v01.00-cad.PNG)
 
-## v01.01: modular design on steering wheel
+### v01.01: modular design on steering wheel
   - display could be detatched and re-attached to the base
   - had holes pre-cut so screw could attach to base
   * ended up having to abort this design in the end because the usb cable was intended to go through the middle of 
@@ -17,4 +26,4 @@ sim dashboard using nextion display
 ![v01.01](./media/v01.01-cad-base.PNG)
 ![v01.01](./media/v01.01-cad-screen.PNG)
 
-## v01.00: attach to side of chasis 
+### v01.00: attach to side of chasis 
