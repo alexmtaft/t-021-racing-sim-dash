@@ -9,6 +9,14 @@ https://www.amazon.com/dp/B07QWS2N48?psc=1&ref=ppx_yo2_dt_b_product_details
 need to use CP2102 USB to TTL Adapter Serial to attach to computer USB
   - was not detected initially by win10, needed to install drivers for it from: https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 
+![v01.00](./media/Untitled.MOV)
+
+
+
+
+https://user-images.githubusercontent.com/6611284/139970841-8c5c60f7-5705-45ea-a678-4e311ac6d1d5.mov
+
+
 ## cad
 ### v01.00: just a draft to get approximate sizing on steering wheel
   - didn't account for the logitech circoelcover fiting inside of the stand -> made diameter too small
