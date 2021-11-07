@@ -37,4 +37,5 @@ https://user-images.githubusercontent.com/6611284/139970841-8c5c60f7-5705-45ea-a
   instead will attach the base/screen to the side of the wheel stand on a pivot
 
 ![v2.0.0](./media/v2.0.0-cad-base.PNG)
+![v2.0.0](./media/v2.0.0-cad-screen.PNG)
 
