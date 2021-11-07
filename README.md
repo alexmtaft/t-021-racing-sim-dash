@@ -29,11 +29,12 @@ https://user-images.githubusercontent.com/6611284/139970841-8c5c60f7-5705-45ea-a
     - tried taking about a usb cable to feed through and solder the end back to it but was going to be too difficult
       and the cable would likely break after a while of turning the wheel several hundred degrees
 
+![v1.1.0](./media/v1.1.0-cad-base.PNG)
+![v1.1.0](./media/v1.1.0-cad-screen.PNG)
+
 ### v2.0.0: attach to side of stand  
   - problems with cabling in v1.1.0 caused me to ditch trying to send the usb cable through the steering wheel.
   instead will attach the base/screen to the side of the wheel stand on a pivot
 
-=======
-![v1.1.0](./media/v1.1.0-cad-base.PNG)
-![v1.1.0](./media/v1.1.0-cad-screen.PNG)
+![v2.0.0](./media/v2.0.0-cad-base.PNG)
 
